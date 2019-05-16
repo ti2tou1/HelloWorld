@@ -13,6 +13,7 @@ public class HelloWorld {
 		System.out.println("Git f***");
 		System.out.println("Git f***");
 		System.out.println("Git back to clean situation");
+		System.out.println("Git added .gitignore ok");
 	}
 
 }
