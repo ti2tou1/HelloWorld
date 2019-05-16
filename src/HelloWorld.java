@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Git add branch test");
 		System.out.println("Git modify branch test");
 		System.out.println("Git merge test to master");
+		System.out.println("Git merge conflict soved ok");
 	}
 
 }
