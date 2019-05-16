@@ -15,11 +15,7 @@ public class HelloWorld {
 		System.out.println("Git back to clean situation");
 		System.out.println("Git added .gitignore ok");
 		System.out.println("Git merged test3 ok");
-		System.out.println("Shi* of Eclipse asked me A U Thor stuff");
-		System.out.println("Git add branch test4");
-		System.out.println("Modification in master branch under Eclipse 1");
-		System.out.println("Modification in master branch under vim");
-		System.out.println("Modification in master branch under Eclipse 2");
-		System.out.println("Modification in master branch under Eclipse 3");	}
+		System.out.println("Hello World!");
+	}
 
 }
