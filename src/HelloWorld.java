@@ -16,7 +16,7 @@ public class HelloWorld {
 		System.out.println("Git added .gitignore ok");
 		System.out.println("Git merged test3 ok");
 		System.out.println("Shi* of Eclipse asked me A U Thor stuff");
-		error
+		System.out.println("Git add branch test4");
 	}
 
 }
