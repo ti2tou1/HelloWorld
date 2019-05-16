@@ -17,6 +17,7 @@ public class HelloWorld {
 		System.out.println("Git merged test3 ok");
 		System.out.println("Hello World!");
 		System.out.println("Tired ...");
+		System.out.println("Bye !");
 	}
 
 }
