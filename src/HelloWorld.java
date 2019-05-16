@@ -10,6 +10,9 @@ public class HelloWorld {
 		System.out.println("Git merge test to master");
 		System.out.println("Git merge conflict soved ok");
 		System.out.println("Git removed .class file ok");
+		System.out.println("Git f***");
+		System.out.println("Git f***");
+		System.out.println("Git back to clean situation");
 	}
 
 }
