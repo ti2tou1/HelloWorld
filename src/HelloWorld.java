@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("Eclipse GitHub Integration using token key");
 		System.out.println("Git add branch test");
+		System.out.println("Git modify branch test");
 
 	}
 
