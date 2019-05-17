@@ -18,6 +18,7 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("Tired ...");
 		System.out.println("Bye !");
+		System.out.println("I hate it and I like it !!!");
 	}
 
 }
