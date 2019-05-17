@@ -19,6 +19,7 @@ public class HelloWorld {
 		System.out.println("Tired ...");
 		System.out.println("Bye !");
 		System.out.println("I hate it and I like it !!!");
+		System.out.println("for sure");
 	}
 
 }
