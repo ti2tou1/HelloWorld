@@ -1,10 +1,10 @@
 # HelloWorld
 
-# I hate it
+# I don't hate it
 
-1. I hate it
-2. I hate it hate it
-3. I hate it hate it hate it
+1. I don't hate it
+2. I don't hate it hate it
+3. I don't hate it hate it hate it
 
 # I like it
 
