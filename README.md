@@ -1,6 +1,6 @@
 # HelloWorld
 
-# I hate it
+# I don't hate it
 
 1. I don't hate it
 2. I don't hate it hate it
